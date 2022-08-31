@@ -1,5 +1,7 @@
 # Crossfade Limiter
 
+![](https://raw.githubusercontent.com/kisoqual/crossfadelimiter/main/image.png)
+
 this preset plugin makes slient sounds in
 both levels with loud sounds when both are crossfading 
 
